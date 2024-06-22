@@ -1,0 +1,102 @@
+.request{
+    color:white;
+    background-color: black;
+    height: 45px;
+    border: none;
+    transition: opacity 0.15s;
+}
+
+.request:hover{
+    opacity: 0.8;
+}
+
+
+.cart{
+
+    color:black;
+    background-color: rgb(236, 199, 9);
+    height: 50px;
+    width: 250px;
+    border-radius: 25px;
+    border: none;
+    transition: background-color 0.15s;
+}
+
+.cart:hover{
+    background-color:rgb(245, 208, 26);
+}
+
+.signup{
+    color:white;
+    background-color: rgb(46, 164, 79);
+    height: 45px;
+    width: 100px;
+    border: none;
+    border-radius: 4px;
+    font-weight: bold;
+    font-size: 20px;
+    transition: box-shadow 0.15s;
+}
+
+.signup:hover{
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+
+.started{
+    color:white;
+    background-color: rgb(60, 4, 145);
+    height: 45px;
+    border: none;
+    margin: 8px;
+    border-radius:4px;
+    font-weight: bold;
+    width: 150px;
+    transition: box-shadow 0.15s;
+}
+
+.started:hover{
+    background-color: rgb(121, 82, 179);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.15);
+}
+
+
+.download{
+    color:rgb(36, 34, 34);
+    height: 45px;
+    border: none;
+    font-weight: bold;
+    width:150px;
+    border-radius: 4px;
+    transition: background-color 0.15s, color 0.15s;
+}
+
+.download:hover{
+    background-color: rgb(143, 189, 212);
+    color:aliceblue;
+    
+}
+
+.apply{
+color: white;
+background-color: rgb(10,102,194);
+width: 400px;
+border: none;
+border-radius: 22.5px;
+height: 45px;
+font-weight:bold;
+font-size:14px;
+
+
+}
+
+
+.save{
+color:rgb(10,102,194);
+font-weight:bold;
+height:45px;
+border:none;
+border-radius:22.5px;
+width:120px;
+font-size:14px;
+}
